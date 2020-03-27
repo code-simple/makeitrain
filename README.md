@@ -1,6 +1,6 @@
 # makeirain
 
-A new Flutter project.
+Money Money Money
 
 ## Getting Started
 
